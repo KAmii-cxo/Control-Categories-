@@ -52,3 +52,5 @@ Physical/Operational controls include door locks, cabinet locks, surveillance ca
 | Fire detection and prevention (alarm, sprinkler, etc.) | Detective/Preventative | Detect and prevent damage from fire to physical assets like inventory, servers, etc.      |
 
 ---
+## Conclusion
+Cybersecurity controls play a critical role in protecting organizations' assets, data, and operations. By categorizing controls into Administrative, Technical, and Physical/Operational, and understanding their various types (Preventative, Corrective, Detective, Deterrent), organizations can implement a layered approach to security, also known as "defense in depth." This strategy ensures comprehensive protection, reduces vulnerabilities, and mitigates risks effectively. Each control serves a unique purpose, and together, they form a robust defense against a wide range of threats.
